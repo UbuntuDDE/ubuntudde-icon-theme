@@ -1,0 +1,23 @@
+ubuntudde-icon-theme (2020.10.03-3) groovy; urgency=medium
+
+  * Rebuild with 512 svg path fixes.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 19:08:02 +0545
+
+ubuntudde-icon-theme (2020.10.03-2) groovy; urgency=medium
+
+  * Build fix due to bloom-dark missing.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 16:36:56 +0545
+
+ubuntudde-icon-theme (2020.10.03-1) groovy; urgency=medium
+
+  * Added support for bloom packs.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 15:35:50 +0545
+
+ubuntudde-icon-theme (2020.04.02) focal; urgency=urgent
+
+  * Initial Release
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 02 Apr 2020 23:42:36 +0545
