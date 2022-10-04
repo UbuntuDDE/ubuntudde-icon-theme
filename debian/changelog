@@ -1,3 +1,9 @@
+ubuntudde-icon-theme (2020.10.03-4) jammy; urgency=medium
+
+  * Upload to jammy.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 02 Aug 2022 16:03:26 +0545
+
 ubuntudde-icon-theme (2020.10.03-3) groovy; urgency=medium
 
   * Rebuild with 512 svg path fixes.
