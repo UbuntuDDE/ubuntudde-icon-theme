@@ -4,11 +4,14 @@ Priority: optional
 Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
 Standards-Version: 3.9.8
 Build-Depends:
- debhelper-compat (= 13),config-package-dev (>= 5.0),
- x11-apps
+ config-package-dev (>= 5.0),
+ debhelper-compat (= 13),
+ x11-apps,
 
 Package: ubuntudde-icon-theme
 Architecture: all
-Depends: deepin-icon-theme, papirus-icon-theme
+Depends:
+ deepin-icon-theme,
+ papirus-icon-theme,
 Description: UbuntuDDE Icons
  This package is UbuntuDDE Icon Pack 
